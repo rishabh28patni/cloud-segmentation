@@ -1,0 +1,6 @@
+boto3==1.28.69  # AWS SDK for Python
+satpy==0.44.0   # Library for reading and manipulating meteorological 
+pyresample==1.27.1  # Geospatial resampling library
+tqdm==4.66.1   # Progress bar library
+netCDF4==1.6.4
+opencv-python==4.8.0.76
